@@ -12,8 +12,9 @@ int main(void){
 
     sum=tan(a)+tan(b); //endpoints
 
-    for(i=0;i<N;i++){
-    sum=sum + 2*tan(a+ i*(b-a)/N); //the argument of tan is each equidistant point, i is the parameter
+    for(i=1;i<N;i++){
+    sum=sum + 2*tan(a+ i*(b-a)/(N-1)); //the argument of tan is each equidistant point, i is the parameter
+     printf("%f\n",sum);
     }
 
     sum=(b-a)*sum/(2*N); //prefactors
