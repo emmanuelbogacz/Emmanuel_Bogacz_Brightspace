@@ -23,7 +23,7 @@ int main(void){
 
         x[i]=degtorad(x[i]);
     }
-printf("%f\n",x[N-1]);
+
     for(i=0;i<N;i++){ //computation of tan
 
         y[i]=tan(x[i]);
