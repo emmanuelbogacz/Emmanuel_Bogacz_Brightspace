@@ -1,0 +1,7 @@
+This are the files for Practical06.
+
+The file "ex6.f90" is tha standalone code for Practical06.
+
+The files "main.f90" and "matmult.f90" are the codes for Practical06, with Makefile added later.
+
+The file "ex6_using_contains.f90" is an equivalent file to "ex6.f90" with CONTAIN used.
