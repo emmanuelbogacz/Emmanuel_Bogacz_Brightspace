@@ -1,0 +1,8 @@
+These are the files for practical08:
+
+
+1) gcd_iter.f90 is the file with the iterative subroutine.
+
+2) gcd_iter2.f90 is the same as above but using a function instead of a subroutine.
+
+3) gcd_recur is the file with the recurring subroutine.
