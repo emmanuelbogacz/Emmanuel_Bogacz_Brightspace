@@ -1,0 +1,4 @@
+These are the files for practical09.
+
+The matrix.dat files hold matrices of different size for file input.
+The time_taken.dat file holds the time taken for the code to execute.
